@@ -23,6 +23,7 @@ body {
   flex-direction: column;
   background-color: #ffffff;
 }
+/* HEADER */
 .ingredients-inventory-Hyb .header-2gH {
   margin-bottom: 0.01rem;
   box-sizing: border-box;
@@ -68,9 +69,12 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
+/* ISI PAGE */
 .ingredients-inventory-Hyb .auto-group-rqrz-YRf {
   box-sizing: border-box;
-  padding: 3.9rem 12.3rem;
+  padding: 310px 12.3rem;
+  position: relative;
   width: 100%;
   height: 73.8rem;
   opacity: 0.5;
@@ -79,134 +83,4 @@ body {
   background-position: center;
   background-image: url('../assets/image-1-bg-1vR.png');
   flex-shrink: 0;
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs {
-  width: 100%;
-  height: 12.4rem;
-  position: relative;
-  background-color: rgba(155, 190, 200, 0.5);
-  border-radius: 1.8rem;
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs .rectangle-9-EJV {
-  width: 19.6rem;
-  height: 5.7rem;
-  position: absolute;
-  left: 2.5rem;
-  top: 3.4rem;
-  background-color: #ffd47c;
-  border-radius: 1.8rem;
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs .rectangle-10-Mtu {
-  width: 19.6rem;
-  height: 5.7rem;
-  position: absolute;
-  left: 28.7rem;
-  top: 3.4rem;
-  background-color: #ff6969;
-  border-radius: 1.8rem;
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs .rectangle-11-ggH {
-  width: 19.6rem;
-  height: 5.7rem;
-  position: absolute;
-  left: 54.9rem;
-  top: 3.4rem;
-  background-color: #c70039;
-  border-radius: 1.8rem;
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs .rectangle-12-p1o {
-  width: 19.6rem;
-  height: 5.7rem;
-  position: absolute;
-  left: 81.1rem;
-  top: 3.4rem;
-  background-color: #141e46;
-  border-radius: 1.8rem;
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs .icon-ingredients-kitchen-YTb {
-  width: 83.1rem;
-  height: 3.5073rem;
-  position: absolute;
-  left: 3.7rem;
-  top: 4.4rem;
-  display: flex;
-  column-gap: 22.9rem;
-  align-items: center;
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs .icon-ingredients-kitchen-YTb .vector-djw {
-  width: 3.6rem;
-  height: 3.5073rem;
-  object-fit: contain;
-  vertical-align: top;
-  flex-shrink: 0;
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs .icon-ingredients-kitchen-YTb .vector-Yru {
-  width: 3.6rem;
-  height: 3.5073rem;
-  object-fit: contain;
-  vertical-align: top;
-  flex-shrink: 0;
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs .icon-ingredients-kitchen-YTb .vector-JLH {
-  width: 3.6rem;
-  height: 3.5073rem;
-  object-fit: contain;
-  vertical-align: top;
-  flex-shrink: 0;
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs .icon-ingredients-kitchen-YTb .vector-ef3 {
-  width: 3.6rem;
-  height: 3.5073rem;
-  object-fit: contain;
-  vertical-align: top;
-  flex-shrink: 0;
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs .total-poducts-CAm {
-  width: 9.1rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 8rem;
-  top: 4.1rem;
-  font-size: 1.5rem;
-  font-weight: 400;
-  line-height: 1.38;
-  color: #ffffff;
-  font-family: Alata, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs .low-stock-poducts-hNR {
-  width: 6.6rem;
-  height: 4.2rem;
-  position: absolute;
-  left: 34.5rem;
-  top: 4.1rem;
-  font-size: 1.5rem;
-  font-weight: 400;
-  line-height: 1.38;
-  color: #ffffff;
-  font-family: Alata, 'Source Sans Pro';
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs .out-of-stock-poducts-bih {
-  width: 8.8rem;
-  height: 4.2rem;
-  position: absolute;
-  left: 60.9rem;
-  top: 4.1rem;
-  font-size: 1.5rem;
-  font-weight: 400;
-  line-height: 1.38;
-  color: #ffffff;
-  font-family: Alata, 'Source Sans Pro';
-}
-.ingredients-inventory-Hyb .auto-group-rqrz-YRf .summary-gXs .most-stock-poducts-7BF {
-  width: 7.4rem;
-  height: 4.2rem;
-  position: absolute;
-  left: 87.1rem;
-  top: 4.1rem;
-  font-size: 1.5rem;
-  font-weight: 400;
-  line-height: 1.38;
-  color: #ffffff;
-  font-family: Alata, 'Source Sans Pro';
 }

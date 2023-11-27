@@ -18,7 +18,7 @@ body {
   width: 100%;
   overflow: hidden;
   position: relative;
-  align-items: center;
+  align-items: stretch;
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
@@ -26,6 +26,7 @@ body {
 
 table {
   /* Gaya tabel Anda */
+  width: 100%;
   background-color: azure;
 }
 .dashboard-roK .header-ptZ {
@@ -75,7 +76,7 @@ table {
 }
 .dashboard-roK .auto-group-28dp-ztq {
   box-sizing: border-box;
-  padding: 40rem 12.3rem 4rem 12.3rem;
+  padding: 310px 12.3rem 4rem 12.3rem;
   width: 100%;
   align-items: center;
   opacity: 1;
@@ -88,7 +89,7 @@ table {
   flex-shrink: 0;
 }
 .dashboard-roK .auto-group-28dp-ztq .summary-fzy {
-  margin-bottom: 3.9rem;
+  margin-bottom: 4.5rem;
   width: 100%;
   height: 12.4rem;
   position: relative;
@@ -97,6 +98,7 @@ table {
   box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
   flex-shrink: 0;
 }
+/*ini dpe box warna warni di summarize*/
 .dashboard-roK .auto-group-28dp-ztq .summary-fzy .rectangle-9-kFj {
   width: 19.6rem;
   height: 5.7rem;
@@ -147,6 +149,7 @@ table {
   column-gap: 22.9rem;
   align-items: center;
 }
+/* ini logo keranjang di summarize */
 .dashboard-roK .auto-group-28dp-ztq .summary-fzy .icon-ingredients-kitchen-9qb .vector-zrD {
   width: 3.6rem;
   height: 3.5073rem;
